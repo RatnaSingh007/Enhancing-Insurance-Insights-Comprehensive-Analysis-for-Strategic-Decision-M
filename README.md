@@ -37,7 +37,6 @@ This dashboard project focuses on tracking key metrics in the insurance industry
 - **Data:** Contains the dataset provided by #codebasics.
 - **Excel:** Excel files used for data preprocessing and initial analysis.
 - **Power BI:** Power BI reports for interactive visualization.
-- **Canva:** Presentation slides created using Canva for summarizing insights.
 
 ### How to Use:
 1. Download or clone the repository.
@@ -45,6 +44,13 @@ This dashboard project focuses on tracking key metrics in the insurance industry
 3. Import the processed data into Power BI for visualization.
 4. Analyze the trends, insights, and conclusions drawn from the dashboard.
 5. Refer to the Canva presentation for a summary of key findings.
+
+### Objectives
+
+*  As a junior data analyst at Atliq Technologies, the objective is to conduct a comprehensive analysis of Shield Insurance, a valued client.
+*  The pilot project aims to provide insightful views into key performance indicators (KPIs) and trends within the company.
+*  Specific focus is placed on the sales mode analysis page, delving into the effectiveness of different sales modes and their contribution to overall revenue
+*   The age group analysis page provides insights into customer demographics, revenue contributions by age groups, and age-specific behaviors
 
 ### Key Insights:
 - **Dominance in Delhi NCR:** Strong presence and growth potential noted in Delhi NCR since February-March 2023.
