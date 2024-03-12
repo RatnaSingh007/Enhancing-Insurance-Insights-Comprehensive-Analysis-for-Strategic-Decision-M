@@ -57,5 +57,5 @@ This dashboard project focuses on tracking key metrics in the insurance industry
 In conclusion, our comprehensive analysis of key insurance parameters provides invaluable insights essential for informed strategic decision-making. By understanding regional dynamics, optimizing agent strategies, and tailoring offerings to specific age demographics, Shield Insurance Services remains at the forefront of innovation and customer-centricity in the insurance industry. Through our commitment to data-driven insights and continuous improvement, we uphold our mission of delivering exceptional value and service to our clients, driving sustained growth and success in a dynamic market landscape.
 
 ### Acknowledgments:
-- *  Special thanks to #codebasics for providing the dataset and inspiration for this project.
-- *  Gratitude to the creators of Microsoft Excel, Power BI, and Canva for their powerful tools.
+ *  Special thanks to #codebasics for providing the dataset and inspiration for this project.
+ *  Gratitude to the creators of Microsoft Excel, Power BI, and Canva for their powerful tools.
